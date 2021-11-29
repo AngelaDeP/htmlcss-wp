@@ -147,3 +147,16 @@ li {
 .col-content p {
     color:rgb(179, 179, 179);
 }
+
+.footer {
+    text-align: center;
+    font-size: 17px;
+    margin: 20px 0px;
+}
+
+.footer span {
+    color: rgb(236, 9, 9);
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
